@@ -1,1 +1,2 @@
-sausga;
+let nome = "";
+console.log("oi");
